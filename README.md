@@ -1,3 +1,5 @@
+The Quizzes Tutor site is available at: https://quizzes-tutor.tecnico.ulisboa.pt/
+
 <h1 align="center">Quizzes Tutor</h1>
 
 <p align="center">
